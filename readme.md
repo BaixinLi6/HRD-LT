@@ -1,15 +1,11 @@
 ## Alleviating Overconfidence in Long-Tailed Time Series Classification with Hierarchical  Reverse Distillation
 
 ### Datasets
-Due to the 50MB memory limit, the datasets will be made publicly available once the review process is complete.
-
-### Baseline Models
-Our benchmark includes 14 time series baseline models, which are stored in the 'Libs' folder.
-
+We take the HAR dataset as an example and construct training sets with imbalance ratios of 50 and 100, respectively.
 
 ### Environment
-- Python 3.8
-- Pytorch 2.1
+- Python 3.11
+- Pytorch 2.4
 
 
 ### Run
